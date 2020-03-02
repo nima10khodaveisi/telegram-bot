@@ -70,8 +70,6 @@ public class Tamrin extends TelegramLongPollingBot {
         } else {
             users.add(update.getMessage().getFrom().getFirstName() + " " + update.getMessage().getFrom().getLastName()) ;
         }
-        System.out.println(users);
-        System.out.println(update.getMessage().getDate());
         System.out.println("user : " + update.getMessage().getFrom().getUserName());
         long chatId = update.getMessage().getChatId() ;
         if(!commands.containsKey(chatId)) {
@@ -115,6 +113,17 @@ public class Tamrin extends TelegramLongPollingBot {
                     execute(message) ;
                 } catch (TelegramApiException e) {
                     e.printStackTrace();
+                }
+            } else if(str.equals("/users")) {
+                if(update.getMessage().getFrom().getUserName().equals("Nima10Khodaveisi")) {
+                    SendMessage message = new SendMessage() ;
+                    message.setChatId(update.getMessage().getChatId()) ;
+                    message.setText(users.toString()) ;
+                    try {
+                        execute(message) ;
+                    } catch (TelegramApiException e) {
+                        e.printStackTrace();
+                    }
                 }
             }
         } else if(command.equals("/create")) {
