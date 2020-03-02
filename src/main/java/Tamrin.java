@@ -70,6 +70,7 @@ public class Tamrin extends TelegramLongPollingBot {
         } else {
             users.add(update.getMessage().getFrom().getFirstName() + " " + update.getMessage().getFrom().getLastName()) ;
         }
+        System.out.println(users);
         System.out.println(update.getMessage().getDate());
         System.out.println("user : " + update.getMessage().getFrom().getUserName());
         long chatId = update.getMessage().getChatId() ;
