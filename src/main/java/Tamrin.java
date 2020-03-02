@@ -19,6 +19,7 @@ public class Tamrin extends TelegramLongPollingBot {
     HashMap<Long , String> commands = new HashMap<>() ;
     String nameOfPlayList = null ;
     ArrayList< Message > history = new ArrayList<>() ;
+    HashSet<String> users ;
 
     public void change(long chatId , String command) {
         commands.remove(chatId) ;
@@ -48,7 +49,7 @@ public class Tamrin extends TelegramLongPollingBot {
         for(Message message : history) {
             Date now = new Date() ;
             System.out.println("time " + now.getTime() + " " + message.getDate()) ;
-            if((now.getTime() - message.getDate()) / 1000 >= 60) {
+            if((now.getTime() - message.getDate()) / 1000 >= 30 * 60 * 60) {
                 String chatId = message.getChatId().toString();
                 Integer messageId = message.getMessageId() ;
                 DeleteMessage deleteMessage = new DeleteMessage(chatId , messageId) ;
@@ -64,6 +65,11 @@ public class Tamrin extends TelegramLongPollingBot {
     @Override
     public void onUpdateReceived(Update update) {
         check_history_time() ;
+        if(update.getMessage().getFrom().getUserName() != null) {
+            users.add(update.getMessage().getFrom().getUserName()) ;
+        } else {
+            users.add(update.getMessage().getFrom().getFirstName() + " " + update.getMessage().getFrom().getLastName()) ;
+        }
         System.out.println(update.getMessage().getDate());
         System.out.println("user : " + update.getMessage().getFrom().getUserName());
         long chatId = update.getMessage().getChatId() ;
