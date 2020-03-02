@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40e5a7f7-a6f2-49d3-881a-e2d1bb594312" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/root.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tamrin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tamrin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/tamrin.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Tamrin.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YOihsnZosKuaVUEiJyH7moTpMb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="tamrin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40e5a7f7-a6f2-49d3-881a-e2d1bb594312" name="Default Changelist" comment="" />
+      <created>1582820163725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582820163725</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="215" width="800" height="684" key="#Inspections" timestamp="1582834261336">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="580" y="215" width="800" height="684" key="#Inspections/50.27.1870.1053@50.27.1870.1053" timestamp="1582834261336" />
+    <state x="580" y="215" width="810" height="684" key="#Project_Structure" timestamp="1582992453321">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="580" y="215" width="810" height="684" key="#Project_Structure/50.27.1870.1053@50.27.1870.1053" timestamp="1582992453321" />
+    <state x="793" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1582913790462">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="793" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/50.27.1870.1053@50.27.1870.1053" timestamp="1582913790462" />
+    <state x="718" y="302" width="524" height="510" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1582917063616">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="718" y="302" width="524" height="510" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1582917063616" />
+    <state x="768" y="296" width="424" height="521" key="FileChooserDialogImpl" timestamp="1583087462292">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="768" y="296" width="424" height="521" key="FileChooserDialogImpl/50.27.1870.1053@50.27.1870.1053" timestamp="1583087462292" />
+    <state width="1824" height="252" key="GridCell.Tab.0.bottom" timestamp="1583139247836">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state width="1824" height="252" key="GridCell.Tab.0.bottom/50.27.1870.1053@50.27.1870.1053" timestamp="1583139247836" />
+    <state width="1824" height="252" key="GridCell.Tab.0.center" timestamp="1583139247836">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state width="1824" height="252" key="GridCell.Tab.0.center/50.27.1870.1053@50.27.1870.1053" timestamp="1583139247836" />
+    <state width="1824" height="252" key="GridCell.Tab.0.left" timestamp="1583139247836">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state width="1824" height="252" key="GridCell.Tab.0.left/50.27.1870.1053@50.27.1870.1053" timestamp="1583139247835" />
+    <state width="1824" height="252" key="GridCell.Tab.0.right" timestamp="1583139247836">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state width="1824" height="252" key="GridCell.Tab.0.right/50.27.1870.1053@50.27.1870.1053" timestamp="1583139247836" />
+    <state x="518" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1582831958723">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="518" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1582831958723" />
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583075245453">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="649" y="381" key="com.intellij.ide.util.TipDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1583075245453" />
+    <state x="306" y="163" width="1347" height="788" key="new project wizard" timestamp="1582986912227">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="306" y="163" width="1347" height="788" key="new project wizard/50.27.1870.1053@50.27.1870.1053" timestamp="1582986912227" />
+  </component>
+</project>
