@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583592510142</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="foursalasakjls">
+      <created>1583592806981</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583592806981</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +120,8 @@
     <MESSAGE value="thrid" />
     <MESSAGE value="four" />
     <MESSAGE value="foursala" />
-    <option name="LAST_COMMIT_MESSAGE" value="foursala" />
+    <MESSAGE value="foursalasakjls" />
+    <option name="LAST_COMMIT_MESSAGE" value="foursalasakjls" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="215" width="800" height="684" key="#Inspections" timestamp="1582834261336">
@@ -132,10 +140,10 @@
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
     <state x="718" y="302" width="524" height="510" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1582917063616" />
-    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2" timestamp="1583592799798">
+    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2" timestamp="1583592806918">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2/50.27.1870.1053@50.27.1870.1053" timestamp="1583592799798" />
+    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2/50.27.1870.1053@50.27.1870.1053" timestamp="1583592806918" />
     <state x="150" y="127" width="1670" height="853" key="DiffContextDialog" timestamp="1583165365176">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
