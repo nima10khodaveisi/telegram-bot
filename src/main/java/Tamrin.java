@@ -24,6 +24,7 @@ public class Tamrin extends TelegramLongPollingBot {
     public void change(long chatId , String command) {
         commands.remove(chatId) ;
         commands.put(chatId , command) ;
+        System.out.println();
     }
 
     public void clear_history(String chat) {

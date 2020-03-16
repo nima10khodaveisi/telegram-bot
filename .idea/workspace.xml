@@ -4,6 +4,7 @@
     <list default="true" id="40e5a7f7-a6f2-49d3-881a-e2d1bb594312" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tamrin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tamrin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583593983988</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="a;da;kda">
+      <created>1583594110834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583594110834</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,7 +137,8 @@
     <MESSAGE value="foursala" />
     <MESSAGE value="foursalasakjls" />
     <MESSAGE value="&#10;sjhsl" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;sjhsl" />
+    <MESSAGE value="a;da;kda" />
+    <option name="LAST_COMMIT_MESSAGE" value="a;da;kda" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="215" width="800" height="684" key="#Inspections" timestamp="1582834261336">
@@ -148,34 +157,38 @@
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
     <state x="718" y="302" width="524" height="510" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1582917063616" />
-    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2" timestamp="1583593983944">
+    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2" timestamp="1583594110772">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2/50.27.1870.1053@50.27.1870.1053" timestamp="1583593983944" />
+    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2/50.27.1870.1053@50.27.1870.1053" timestamp="1583594110772" />
     <state x="150" y="127" width="1670" height="853" key="DiffContextDialog" timestamp="1583165365176">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
     <state x="150" y="127" width="1670" height="853" key="DiffContextDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1583165365176" />
-    <state x="768" y="296" width="424" height="521" key="FileChooserDialogImpl" timestamp="1583235877563">
+    <state x="768" y="296" width="424" height="521" key="FileChooserDialogImpl" timestamp="1583602354168">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state x="768" y="296" width="424" height="521" key="FileChooserDialogImpl/50.27.1870.1053@50.27.1870.1053" timestamp="1583235877563" />
-    <state width="1824" height="252" key="GridCell.Tab.0.bottom" timestamp="1583139247836">
+    <state x="768" y="296" width="424" height="521" key="FileChooserDialogImpl/50.27.1870.1053@50.27.1870.1053" timestamp="1583602354168" />
+    <state x="838" y="446" key="Github.ShareDialog" timestamp="1584371839490">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state width="1824" height="252" key="GridCell.Tab.0.bottom/50.27.1870.1053@50.27.1870.1053" timestamp="1583139247836" />
-    <state width="1824" height="252" key="GridCell.Tab.0.center" timestamp="1583139247836">
+    <state x="838" y="446" key="Github.ShareDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1584371839490" />
+    <state width="1824" height="252" key="GridCell.Tab.0.bottom" timestamp="1583602355255">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state width="1824" height="252" key="GridCell.Tab.0.center/50.27.1870.1053@50.27.1870.1053" timestamp="1583139247836" />
-    <state width="1824" height="252" key="GridCell.Tab.0.left" timestamp="1583139247836">
+    <state width="1824" height="252" key="GridCell.Tab.0.bottom/50.27.1870.1053@50.27.1870.1053" timestamp="1583602355255" />
+    <state width="1824" height="252" key="GridCell.Tab.0.center" timestamp="1583602355254">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state width="1824" height="252" key="GridCell.Tab.0.left/50.27.1870.1053@50.27.1870.1053" timestamp="1583139247835" />
-    <state width="1824" height="252" key="GridCell.Tab.0.right" timestamp="1583139247836">
+    <state width="1824" height="252" key="GridCell.Tab.0.center/50.27.1870.1053@50.27.1870.1053" timestamp="1583602355254" />
+    <state width="1824" height="252" key="GridCell.Tab.0.left" timestamp="1583602355254">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state width="1824" height="252" key="GridCell.Tab.0.right/50.27.1870.1053@50.27.1870.1053" timestamp="1583139247836" />
+    <state width="1824" height="252" key="GridCell.Tab.0.left/50.27.1870.1053@50.27.1870.1053" timestamp="1583602355254" />
+    <state width="1824" height="252" key="GridCell.Tab.0.right" timestamp="1583602355255">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state width="1824" height="252" key="GridCell.Tab.0.right/50.27.1870.1053@50.27.1870.1053" timestamp="1583602355255" />
     <state x="518" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1582831958723">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
