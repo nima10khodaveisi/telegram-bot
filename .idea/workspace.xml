@@ -4,6 +4,7 @@
     <list default="true" id="40e5a7f7-a6f2-49d3-881a-e2d1bb594312" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system.properties" beforeDir="false" afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584683889136</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="dsjdl">
+      <created>1584684058349</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1584684058349</updated>
+    </task>
+    <task id="LOCAL-00018" summary="dsjdl">
+      <created>1584684194102</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1584684194102</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +227,8 @@
     <MESSAGE value="ahsh" />
     <MESSAGE value="sada" />
     <MESSAGE value="adla" />
-    <option name="LAST_COMMIT_MESSAGE" value="adla" />
+    <MESSAGE value="dsjdl" />
+    <option name="LAST_COMMIT_MESSAGE" value="dsjdl" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="215" width="800" height="684" key="#Inspections" timestamp="1582834261336">
@@ -231,10 +247,10 @@
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
     <state x="718" y="302" width="524" height="510" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1582917063616" />
-    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2" timestamp="1584684058306">
+    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2" timestamp="1584684194045">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2/50.27.1870.1053@50.27.1870.1053" timestamp="1584684058306" />
+    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2/50.27.1870.1053@50.27.1870.1053" timestamp="1584684194045" />
     <state x="150" y="127" width="1670" height="853" key="DiffContextDialog" timestamp="1583165365176">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
@@ -247,22 +263,22 @@
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
     <state x="838" y="446" key="Github.ShareDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1584371839490" />
-    <state width="1824" height="243" key="GridCell.Tab.0.bottom" timestamp="1584682174553">
+    <state width="1824" height="243" key="GridCell.Tab.0.bottom" timestamp="1584684498945">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state width="1824" height="243" key="GridCell.Tab.0.bottom/50.27.1870.1053@50.27.1870.1053" timestamp="1584682174553" />
-    <state width="1824" height="243" key="GridCell.Tab.0.center" timestamp="1584682174551">
+    <state width="1824" height="243" key="GridCell.Tab.0.bottom/50.27.1870.1053@50.27.1870.1053" timestamp="1584684498945" />
+    <state width="1824" height="243" key="GridCell.Tab.0.center" timestamp="1584684498945">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state width="1824" height="243" key="GridCell.Tab.0.center/50.27.1870.1053@50.27.1870.1053" timestamp="1584682174551" />
-    <state width="1824" height="243" key="GridCell.Tab.0.left" timestamp="1584682174550">
+    <state width="1824" height="243" key="GridCell.Tab.0.center/50.27.1870.1053@50.27.1870.1053" timestamp="1584684498945" />
+    <state width="1824" height="243" key="GridCell.Tab.0.left" timestamp="1584684498944">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state width="1824" height="243" key="GridCell.Tab.0.left/50.27.1870.1053@50.27.1870.1053" timestamp="1584682174550" />
-    <state width="1824" height="243" key="GridCell.Tab.0.right" timestamp="1584682174552">
+    <state width="1824" height="243" key="GridCell.Tab.0.left/50.27.1870.1053@50.27.1870.1053" timestamp="1584684498944" />
+    <state width="1824" height="243" key="GridCell.Tab.0.right" timestamp="1584684498945">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state width="1824" height="243" key="GridCell.Tab.0.right/50.27.1870.1053@50.27.1870.1053" timestamp="1584682174552" />
+    <state width="1824" height="243" key="GridCell.Tab.0.right/50.27.1870.1053@50.27.1870.1053" timestamp="1584684498945" />
     <state x="518" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1582831958723">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
@@ -271,10 +287,10 @@
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
     <state x="474" y="188" width="1022" height="737" key="SettingsEditor/50.27.1870.1053@50.27.1870.1053" timestamp="1584682148669" />
-    <state x="580" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1584684060312">
+    <state x="580" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1584684196371">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state x="580" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/50.27.1870.1053@50.27.1870.1053" timestamp="1584684060312" />
+    <state x="580" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/50.27.1870.1053@50.27.1870.1053" timestamp="1584684196371" />
     <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584682187440">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
