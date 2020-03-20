@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40e5a7f7-a6f2-49d3-881a-e2d1bb594312" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tamrin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tamrin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584374138723</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ah">
+      <created>1584682205602</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584682205602</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ahsh">
+      <created>1584682313799</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584682313799</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,7 +187,9 @@
     <MESSAGE value="a;da;kda" />
     <MESSAGE value="second" />
     <MESSAGE value="sa" />
-    <option name="LAST_COMMIT_MESSAGE" value="sa" />
+    <MESSAGE value="ah" />
+    <MESSAGE value="ahsh" />
+    <option name="LAST_COMMIT_MESSAGE" value="ahsh" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="215" width="800" height="684" key="#Inspections" timestamp="1582834261336">
@@ -193,10 +208,10 @@
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
     <state x="718" y="302" width="524" height="510" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1582917063616" />
-    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2" timestamp="1584682205418">
+    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2" timestamp="1584682313679">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2/50.27.1870.1053@50.27.1870.1053" timestamp="1584682205418" />
+    <state x="593" y="63" width="773" height="988" key="CommitChangelistDialog2/50.27.1870.1053@50.27.1870.1053" timestamp="1584682313679" />
     <state x="150" y="127" width="1670" height="853" key="DiffContextDialog" timestamp="1583165365176">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
@@ -233,10 +248,10 @@
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
     <state x="474" y="188" width="1022" height="737" key="SettingsEditor/50.27.1870.1053@50.27.1870.1053" timestamp="1584682148669" />
-    <state x="580" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1584682210952">
+    <state x="580" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1584682317936">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
-    <state x="580" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/50.27.1870.1053@50.27.1870.1053" timestamp="1584682210952" />
+    <state x="580" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/50.27.1870.1053@50.27.1870.1053" timestamp="1584682317936" />
     <state x="649" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584682187440">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
