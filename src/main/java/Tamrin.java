@@ -65,6 +65,7 @@ public class Tamrin extends TelegramLongPollingBot {
 
     @Override
     public void onUpdateReceived(Update update) {
+        System.out.println(update.getMessage().getFrom().getUserName());
         check_history_time() ;
         if(update.getMessage().getFrom().getUserName() != null) {
             users.add(update.getMessage().getFrom().getUserName()) ;
